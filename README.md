@@ -1,5 +1,5 @@
 # dh140
-Name: Brandon Hyunwoo Chi
+<p> Name: Brandon Hyunwoo Chi </p>
 Grade: Senior
 Major: Computer Science
 Hometown: San Diego
